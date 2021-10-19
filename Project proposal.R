@@ -10,24 +10,19 @@ associated with climate change.
 Does climate and habitat change negativly impact wild turkey populations within New York State?
 
 ## Example 1
+  https://www.researchgate.net/figure/MaxEnt-species-distribution-models-for-six-higher-attine-nonleaf-cutter-ant-species-in_fig2_338064443 
+This study uses maxent to show species sutability of six different
+higher-attine nonleaf cutter ant species. I liked this example as it shows
+6 different ant species side by side with different suitabilites. 
   
-  https://link.springer.com/article/10.1007/s00442-021-05055-x
-
-I used this article in the beginning of my research in order to understand
-how much research has already been done pertaining to climate change and
-wild turkey populations. This study focuses more on the extreme effects of 
-climate change while my project looks more at how climate change has affected 
-environmental factors that in turn effect wild turkey populations.   
 
 ## Example 2
-https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.0906-7590.2008.5203.x
+https://www.researchgate.net/figure/Results-of-species-distribution-modeling-SDM-employing-Maxent-algorithm-for-the_fig1_324076008
 
-Example 2 goes into detail about Maxent which is a recently introduced 
-modeling technique, achieving high predictive
-accuracy and enjoying several additional attractive properties. I don't know 
-too much about this program but I know it will help me create my SDM with 
-increased accuracy from older programs. The reading goes into detail about 
-Maxtent and what it is capable of.
+Results of species distribution modeling (SDM) using Maxent for 
+the species Lagostomus maximus (left column) and Myocastor coypus (right). The 
+suitability projections for current time are showed in continuous scale
+(between 0 and 1). 
 
 ## Example 3
 https://roanoke.com/sports/outdoors/virginia-s-turkey-management-plan-finally-set/article_2a8137b8-904e-11e3-91da-0017a43b2370.html?mode=image&photo=2
